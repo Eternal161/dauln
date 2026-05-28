@@ -23,8 +23,7 @@ jobs:
     - name: Cài đặt đồ nghề và vá lỗi hệ thống đồ họa
       run: |
         pip install playwright
-        playwright install chromium
-        sudo playwright install-deps
+        python -m playwright install --with-deps chromium
 
     - name: Kích hoạt Bot cào dữ liệu ngầm
       run: python caotruyen.py
