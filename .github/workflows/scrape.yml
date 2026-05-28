@@ -1,0 +1,38 @@
+name: Hệ Thống Hút Truyện Tự Động Sáng TV
+
+on:
+  workflow_dispatch: # Kích hoạt tính năng bấm nút chạy thủ công trên điện thoại
+
+jobs:
+  build_and_scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Cấp quyền ghi dữ liệu vào kho mật
+
+    steps:
+    - name: Kiểm tra mã nguồn kho
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.AUTO_TOKEN }} # Sử dụng chiếc chìa khóa bí mật của Dậu
+
+    - name: Khởi tạo môi trường Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Cài đặt đồ nghề và vá lỗi hệ thống đồ họa
+      run: |
+        pip install playwright
+        playwright install chromium
+        sudo playwright install-deps
+
+    - name: Kích hoạt Bot cào dữ liệu ngầm
+      run: python caotruyen.py
+
+    - name: Tự động Commit file PDF và JSON ngược lên GitHub
+      run: |
+        git config --global user.name "SángTV-Bot"
+        git config --global user.email "bot-automation@sangtv.com"
+        git add thanh_mai_giao_hoa_full.pdf ln.json
+        git commit -m "Hệ thống tự động: Đã nạp thêm truyện chữ PDF mới vào kho thành công 🚀" || echo "Không có dữ liệu mới để cập nhật"
+        git push origin main || git push origin master
