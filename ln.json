@@ -3,8 +3,33 @@
         {
             "title": "Làm bạn với cô nàng dễ thương nhì lớp",
             "thumb_url": "https://i2.hako.vip/ln/series/covers/s9193-b246d65f-856d-40f5-b17f-6c031c871dc3.jpg",
-            "status": "WN Chap 1-265",
-            "pdf_url": "https://raw.githubusercontent.com/Eternal161/dauln/main/de_thuong_thu_hai_lop_full_compressed.pdf"
+            "status": "Đang ra",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/gai_de_thuong_nhi_lop_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/gai_de_thuong_nhi_lop_vol_2.pdf"
+                },
+                {
+                    "name": "Vol 3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/gai_de_thuong_nhi_lop_vol_3.pdf"
+                },
+                {
+                    "name": "Vol 4",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/gai_de_thuong_nhi_lop_vol_4.pdf"
+                },
+                {
+                    "name": "Vol 5",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/gai_de_thuong_nhi_lop_vol_5.pdf"
+                },
+                {
+                    "name": "Vol 6",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/gai_de_thuong_nhi_lop_vol_6.pdf"
+                }
+            ]
         }
     ]
-}
+}}
