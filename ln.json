@@ -30,6 +30,33 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/gai_2_vol_6.pdf"
                 }
             ]
+        },
+        {
+            "title": "Dị giới bình yên",
+            "thumb_url": "https://i.hako.vip/lightnovel/covers/s7773-fcc60248-2777-488b-b938-805bbb6243dc-m.jpg",
+            "status": "Đang ra",
+            "pdf_chapters": [
+                {
+                    "name": "1-189",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/di_gioi_binh_yen_1-189_vol_1_compressed.pdf"
+                },
+                {
+                    "name": "190-223",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/di_gioi_binh_yen_190-223_vol_1.pdf"
+                },
+                {
+                    "name": "224-268",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/di_gioi_binh_yen_224-268_vol_1.pdf"
+                },
+                {
+                    "name": "269-497",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/di_gioi_binh_yen_269-497_vol_1.pdf"
+                },
+                {
+                    "name": "269-497",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/di_gioi_binh_yen_269-497_vol_2.pdf"
+                }
+            ]
         }
     ]
 }
