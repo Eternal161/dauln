@@ -3,7 +3,7 @@
         {
             "title": "Làm bạn với cô nàng dễ thương nhì lớp",
             "thumb_url": "https://i2.hako.vip/ln/series/covers/s9193-b246d65f-856d-40f5-b17f-6c031c871dc3.jpg",
-            "status": "Đang ra",
+            "status": "Vol 6",
             "pdf_chapters": [
                 {
                     "name": "Vol 1",
@@ -34,7 +34,7 @@
         {
             "title": "Dị giới bình yên",
             "thumb_url": "https://i.hako.vip/lightnovel/covers/s7773-fcc60248-2777-488b-b938-805bbb6243dc-m.jpg",
-            "status": "Đang ra",
+            "status": "WebNovel tới 497",
             "pdf_chapters": [
                 {
                     "name": "1-189",
@@ -128,6 +128,45 @@
           "url": "https://raw.githubusercontent.com/Eternal161/dauphim/main/Phần%20Kết%20Thứ%203%20(Ba)-%20Sasaki%20Aya%20-%20Hậu%20Truyện%20-%20Phá%20Đảo%20Dị%20Giới%20Cùng%20Nữ%20Thần%20Không%20Tín%20Đồ.pdf"
         }
       ]
-    }
+    },
+        {
+            "title": "Hắc Anh Hùng",
+            "thumb_url": "https://1.bp.blogspot.com/-jsg56dTB53k/W1wc_p_s_aI/AAAAAAABdOQ/32a5iUJULiwmuxDtz2xqjwrl2BsL1dxxgCHMYCw/w215/default.jpg",
+            "status": "Vol 8",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauphim/main/hac_anh_hung_vol_1_compressed.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauphim/main/hac_anh_hung_vol_2.pdf"
+                },
+                {
+                    "name": "Vol 3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauphim/main/hac_anh_hung_vol_3.pdf"
+                },
+                {
+                    "name": "Vol 4",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauphim/main/hac_anh_hung_vol_4.pdf"
+                },
+                {
+                    "name": "Vol 5",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauphim/main/hac_anh_hung_vol_5.pdf"
+                },
+                {
+                    "name": "Vol 6",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauphim/main/hac_anh_hung_vol_6.pdf"
+                },
+                {
+                    "name": "Vol 7",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauphim/main/hac_anh_hung_vol_7.pdf"
+                },
+                {
+                    "name": "Vol 8",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauphim/main/hac_anh_hung_vol_8.pdf"
+                }
+            ]
+        }
     ]
 }
