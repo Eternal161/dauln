@@ -343,6 +343,48 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/dan_em_noel_vol_9.pdf"
                 }
             ]
-        }            
+        },
+        {
+            "title": "Sống sót với tư cách nhân viên văn phòng ở Cục quản thúc quái vật",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s20598-f8bc1b7a-38f0-49f3-a017-938b56412b2c.jpg",
+            "status": "Full",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/quan_thuc_quai_vat_vol_1.1.pdf"
+                },
+                {
+                    "name": "Vol 1.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/quan_thuc_quai_vat_vol_1.2.pdf"
+                },
+                {
+                    "name": "Vol 1.3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/quan_thuc_quai_vat_vol_1.3.pdf"
+                },
+                {
+                    "name": "Vol 2.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/quan_thuc_quai_vat_vol_2.1.pdf"
+                },
+                {
+                    "name": "Vol 2.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/quan_thuc_quai_vat_vol_2.2.pdf"
+                },
+                {
+                    "name": "Vol 2.3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/quan_thuc_quai_vat_vol_2.3.pdf"
+                },
+                {
+                    "name": "Vol 3.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/quan_thuc_quai_vat_vol_3.1.pdf"
+                },
+                {
+                    "name": "Vol 3.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/quan_thuc_quai_vat_vol_3.2.pdf"
+                },
+                {
+                    "name": "Vol Hậu Truyện",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/quan_thuc_quai_vat_vol_4.pdf"
+                }
+        }
     ]
 }
