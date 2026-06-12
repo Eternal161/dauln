@@ -401,6 +401,25 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/magi_explo_vol_2.pdf"
                 }
             ]
+        },
+        {
+            "title": "Siêu Năng Lực Của Tôi Được Làm Mới Mỗi Tuần",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s26204-30cf37da-be23-4e3c-8bdf-7d37cfe030e3.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/sieu_nang_luc_lam_moi_moi_tuan_vol_1.1.pdf"
+                },
+                {
+                    "name": "Vol 1.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/sieu_nang_luc_lam_moi_moi_tuan_vol_1.2.pdf"
+                },
+                {
+                    "name": "Vol 1.3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/sieu_nang_luc_lam_moi_moi_tuan_2_vol_1.pdf"
+                }
+            ]
         }
     ]
 }
