@@ -238,7 +238,7 @@
         {
             "title": "Chuyện Yêu Bạn Thuở Nhỏ",
             "thumb_url": "https://i2.hako.vip/ln/series/covers/s24848-5f42da75-4613-4b16-859c-de0605d7c7b5.jpg",
-            "status": "Vol 1 Full",
+            "status": "Full",
             "pdf_chapters": [
                 {
                     "name": "Vol 1.1",
@@ -399,6 +399,10 @@
                 {
                     "name": "Vol 2",
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/magi_explo_vol_2.pdf"
+                },
+                {
+                    "name": "Vol 3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/magi_explo_vol_3.pdf"
                 }
             ]
         },
