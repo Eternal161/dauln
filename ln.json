@@ -390,7 +390,7 @@
         {
             "title": "Magical Explorer",
             "thumb_url": "https://i2.hako.vip/ln/books/covers/s26350-b4b817dc-f24f-4a5f-ae38-b167a8ee9887.jpg",
-            "status": "Vol 3",
+            "status": "Vol 4",
             "pdf_chapters": [
                 {
                     "name": "Vol 1",
@@ -403,6 +403,10 @@
                 {
                     "name": "Vol 3",
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/magi_explo_vol_3.pdf"
+                },
+                {
+                    "name": "Vol 4",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/magi_explo_vol_4.pdf"
                 }
             ]
         },
