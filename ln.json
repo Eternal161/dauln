@@ -432,6 +432,45 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/sieu_nang_luc_lam_moi_moi_tuan_2_vol_1.pdf"
                 }
             ]
+        },
+        {
+            "title": "Võ Lâm Máu M",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s24858-995acf20-40fc-4595-bbec-03726d183991.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/vo_lam_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/vo_lam_vol_2.1.pdf"
+                },
+                {
+                    "name": "Vol 2.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/vo_lam_vol_2.2.pdf"
+                },
+                {
+                    "name": "Vol 2.3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/vo_lam_vol_2.3.pdf"
+                },
+                {
+                    "name": "Vol 2.4",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/vo_lam_vol_2.4.pdf"
+                },
+                {
+                    "name": "Vol 3.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/vo_lam_vol_3.1.pdf"
+                },
+                {
+                    "name": "Vol 3.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/vo_lam_vol_3.2.pdf"
+                },
+                {
+                    "name": "Vol 4",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/vo_lam_vol_4.pdf"
+                }
+            ]
         }
     ]
 }
