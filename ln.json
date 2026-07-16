@@ -661,6 +661,18 @@
                 {
                     "name": "Vol 1",
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/trung_sinh_thanh_mai_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/trung_sinh_thanh_mai_vol_2.pdf"
+                },
+                {
+                    "name": "Vol 3.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/trung_sinh_thanh_mai_vol_3.1.pdf"
+                },
+                {
+                    "name": "Vol 3.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/trung_sinh_thanh_mai_vol_3.2.pdf"
                 }
             ]
         }
