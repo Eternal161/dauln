@@ -561,6 +561,33 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/khach_san_vol_12.pdf"
                 }
             ]
+        },
+        {
+            "title": "Lãnh Chúa: Ta Nuôi Dưỡng Thiếu Nữ Trong Thế Giới Hắc Ám",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s24376-897e829a-7b83-42a3-b285-cf81c4aaf03c.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/lanh_chua_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/lanh_chua_vol_2.pdf"
+                },
+                {
+                    "name": "Vol 3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/lanh_chua_vol_3.pdf"
+                },
+                {
+                    "name": "Vol 4",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/lanh_chua_vol_4.pdf"
+                },
+                {
+                    "name": "Vol 5",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/lanh_chua_vol_5.pdf"
+                }
+            ]
         }
     ]
 }
