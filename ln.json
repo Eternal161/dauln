@@ -766,6 +766,44 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/song_lai_thanh_xuan_vol_10.pdf"
                 }
             ]
+        },
+        {
+            "title": "Trọng Sinh: Cô Chủ Nhà 26 Tuổi Của Tôi",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s27020-3fd58328-a979-4928-8f4d-e59c58503138.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/chu_nha_26tuoi_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/chu_nha_26tuoi_vol_2.pdf"
+                },
+                {
+                    "name": "Vol 3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/chu_nha_26tuoi_vol_3.pdf"
+                },
+                {
+                    "name": "Vol 4",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/chu_nha_26tuoi_vol_4.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Năm Ấy Hoa Nở 1981",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s27105-66a73b1b-0c8a-4f00-80b2-de09de82002e.webp",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/trung_sinh_1981_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/trung_sinh_1981_vol_2.pdf"
+                }
+            ]
         }
     ]
 }
