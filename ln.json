@@ -804,6 +804,33 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/trung_sinh_1981_vol_2.pdf"
                 }
             ]
+        },
+        {
+            "title": "Trọng Sinh: Trở Lại 10 Năm Trước",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s24538-886fc507-2c18-44ff-a5e6-7da56ad23c80.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/trung_sinh_10_nam_truoc_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/trung_sinh_10_nam_truoc_vol_2.pdf"
+                },
+                {
+                    "name": "Vol 3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/trung_sinh_10_nam_truoc_vol_3.pdf"
+                },
+                {
+                    "name": "Vol 4",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/trung_sinh_10_nam_truoc_vol_4.pdf"
+                },
+                {
+                    "name": "Vol 5",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/trung_sinh_10_nam_truoc_vol_5.pdf"
+                }
+            ]
         }
     ]
 }
