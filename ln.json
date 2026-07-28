@@ -894,6 +894,33 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/gacha_vol_13.pdf"
                 }
             ]
+        },
+        {
+            "title": "Chào Cậu! 2010",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s26981-85e2b0db-2a4c-4a49-87bf-accd4a97fb19.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/2010_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/2010_vol_2.pdf"
+                },
+                {
+                    "name": "Vol 3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/2010_vol_3.pdf"
+                },
+                {
+                    "name": "Vol 4",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/2010_vol_4.pdf"
+                },
+                {
+                    "name": "Vol 5",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/2010_vol_5.pdf"
+                }
+            ]
         }
     ]
 }
