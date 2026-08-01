@@ -964,6 +964,29 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/bach_nguyet_quang_vol_1.6.pdf"
                 }
             ]
+        },
+        {
+            "title": "Mô Phỏng Thần Minh: Thánh Nữ, Ta Ban Cho Con Tân Sinh",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s27769-62f2c0d4-95ca-4c44-8899-7774476b1ae9.webp",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/than_minh_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/than_minh_vol_2.1.pdf"
+                },
+                {
+                    "name": "Vol 2.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/than_minh_vol_2.2.pdf"
+                },
+                {
+                    "name": "Vol 3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/than_minh_vol_3.pdf"
+                }
+            ]
         }
     ]
 }
