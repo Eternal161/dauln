@@ -983,6 +983,45 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/than_minh_vol_3.pdf"
                 }
             ]
+        },
+        {
+           "title": "Phím Lai",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s27909-68c76654-2d0f-4369-865b-58b5ed3e4848.webp",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/phim_lai_vol_1.1.pdf"
+                },
+                {
+                    "name": "Vol 1.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/phim_lai_vol_1.2.pdf"
+                },
+                {
+                    "name": "Vol 1.3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/phim_lai_vol_1.3.pdf"
+                }, 
+                {
+                    "name": "Vol 1.4",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/phim_lai_vol_1.4.pdf"
+                }, 
+                {
+                    "name": "Vol 1.5",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/phim_lai_vol_1.5.pdf"
+                }, 
+                {
+                    "name": "Vol 1.6",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/phim_lai_vol_1.6.pdf"
+                }, 
+                {
+                    "name": "Vol 1.7",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/phim_lai_vol_1.7.pdf"
+                }, 
+                {
+                    "name": "Vol 1.8",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/phim_lai_vol_1.8.pdf"
+                }
+            ]
         }
     ]
 }
