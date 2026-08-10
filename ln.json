@@ -130,45 +130,6 @@
             ]
         },
         {
-            "title": "Hắc Anh Hùng",
-            "thumb_url": "https://1.bp.blogspot.com/-jsg56dTB53k/W1wc_p_s_aI/AAAAAAABdOQ/32a5iUJULiwmuxDtz2xqjwrl2BsL1dxxgCHMYCw/w215/default.jpg",
-            "status": "Vol 8",
-            "pdf_chapters": [
-                {
-                    "name": "Vol 1",
-                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hac_anh_hung_vol_1_compressed.pdf"
-                },
-                {
-                    "name": "Vol 2",
-                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hac_anh_hung_vol_2.pdf"
-                },
-                {
-                    "name": "Vol 3",
-                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hac_anh_hung_vol_3.pdf"
-                },
-                {
-                    "name": "Vol 4",
-                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hac_anh_hung_vol_4.pdf"
-                },
-                {
-                    "name": "Vol 5",
-                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hac_anh_hung_vol_5.pdf"
-                },
-                {
-                    "name": "Vol 6",
-                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hac_anh_hung_vol_6.pdf"
-                },
-                {
-                    "name": "Vol 7",
-                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hac_anh_hung_vol_7.pdf"
-                },
-                {
-                    "name": "Vol 8",
-                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hac_anh_hung_vol_8.pdf"
-                }
-            ]
-        },
-        {
             "title": "Liar Liar",
             "thumb_url": "https://i.hako.vip/lightnovel/covers/b22032-b4964298-8e7f-4fd7-b95c-805a3bbf198a-m.jpg",
             "status": "Vol 15",
@@ -1058,6 +1019,17 @@
                 {
                     "name": "Vol 4",
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/nhat_con_gai_vol_4.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Hoa Khôi Lạnh Lùng Ở Trường Lại Là Bạn Gái Đáng Yêu Qua Mạng",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s25473-5cafc13c-a1d5-4a99-a24c-6f550a1bd936.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/"
                 }
             ]
         }
