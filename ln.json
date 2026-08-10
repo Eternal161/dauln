@@ -1042,6 +1042,33 @@
                 {
                     "name": "Vol 2.2",
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hoa_khoi_yeu_qua_mang_vol_2.2.pdf"
+                },
+                {
+                    "name": "Vol 3.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hoa_khoi_yeu_qua_mang_vol_3.1.pdf"
+                },
+                {
+                    "name": "Vol 3.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hoa_khoi_yeu_qua_mang_vol_3.2.pdf"
+                },
+                {
+                    "name": "Vol 3.3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hoa_khoi_yeu_qua_mang_vol_3.3.pdf"
+                },
+                {
+                    "name": "Vol 3.4",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hoa_khoi_yeu_qua_mang_vol_3.4.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono Suru",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s27887-1cc799ae-b37a-4f15-828e-83944e93abbd.webp",
+            "status": "LN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/maou_vol_1.pdf"
                 }
             ]
         }
