@@ -1193,6 +1193,17 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/giao_su_vol_5.pdf"
                 }
             ]
+        },
+        {
+            "title": "Arknights : Vô Gian Đạo",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s27160-610b246e-aad0-490d-8396-c97a8e9a32b2.webp",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/arknights_vgd_vol_1.1.pdf"
+                }
+            ]
         }
     ]
 }
