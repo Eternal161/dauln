@@ -1261,6 +1261,37 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/lmht_vol_4.pdf"
                 }
             ]
+        },
+        {
+            "title": "Đêm Mưa Bão, Hoa Khôi Trường Gõ Cửa Xin Trú Ngụ",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s27988-806cadf4-7e8d-4f0c-b334-8c41b0aefec2.webp",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hoa_khoi_tru_mua_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hoa_khoi_tru_mua_vol_2.pdf"
+                },
+                {
+                    "name": "Vol 3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hoa_khoi_tru_mua_vol_3.pdf"
+                },
+                {
+                    "name": "Vol 4",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hoa_khoi_tru_mua_vol_4.pdf"
+                },
+                {
+                    "name": "Vol 5",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hoa_khoi_tru_mua_vol_5.pdf"
+                },
+                {
+                    "name": "Ngoại Truyện",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/hoa_khoi_tru_mua_vol_6.pdf"
+                }
+            ]
         }
     ]
 }
