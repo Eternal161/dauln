@@ -1335,6 +1335,21 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/dai_tieu_thu_xau_xa_vol_1.4.pdf"
                 }
             ]
+        },
+        {
+            "title": "Tôi Nhặt Được Trứng Rồng",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s26933-6ad17758-510c-4ca3-b9c6-1c48b6c27079.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/nuoi_rong_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/nuoi_rong_vol_2.pdf"
+                }
+            ]
         }
     ]
 }
