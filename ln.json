@@ -1409,6 +1409,29 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/gyaru_vol_13.pdf"
                 }
             ]
+        },
+        {
+            "title": "Tôi Trở Thành Nhân Vật Gacha 6 Sao",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s26915-19dfccbe-89e9-493a-96df-834d68940e45.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/gacha_6_sao_vol_1.1.pdf"
+                },
+                {
+                    "name": "Vol 1.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/gacha_6_sao_vol_1.2.pdf"
+                },
+                {
+                    "name": "Vol 1.3.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/gacha_6_sao_vol_1.3.1.pdf"
+                },
+                {
+                    "name": "Vol 1.3.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/gacha_6_sao_vol_1.3.2.pdf"
+                }
+            ]
         }
     ]
 }
