@@ -1448,6 +1448,25 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/gacha_6_sao_vol_1.3.2.pdf"
                 }
             ]
+        },
+        {
+            "title": "Trùng Sinh 2008: Tôi Được Chẩn Đoán Là Bậc Thầy Y Học",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s27040-6c0eca91-11bf-44eb-9c59-69f5694784a2.webp",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/bac_si_2008_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/bac_si_2008_vol_2.pdf"
+                },
+                {
+                    "name": "Vol 3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/bac_si_2008_vol_3.pdf"
+                }
+            ]
         }
     ]
 }
