@@ -1467,6 +1467,33 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/bac_si_2008_vol_3.pdf"
                 }
             ]
+        },
+        {
+            "title": "Thắp Lại Ngọn Lửa Năm 2001",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s24516-0ac9a1be-f4f2-42cf-b279-6f76e49caf94.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/2001_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/2001_vol_2.1.pdf"
+                },
+                {
+                    "name": "Vol 2.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/2001_vol_2.2.pdf"
+                },
+                {
+                    "name": "Vol 2.3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/2001_vol_2.3.pdf"
+                },
+                {
+                    "name": "Vol 3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/2001_vol_3.pdf"
+                }
+            ]
         }
     ]
 }
