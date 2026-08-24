@@ -1498,6 +1498,52 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/2001_vol_3.pdf"
                 }
             ]
+        },
+        {
+            "title": "Sau Khi Trọng Sinh, Tôi Chọn Cô Bạn Thanh Mai Hay Nũng Nịu",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s27639-c406873e-1149-4749-bc0e-769fe9624960.webp",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/trung_sinh_1_vol_1.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Shadow Slave (Nô Lệ Bóng Tối)",
+            "thumb_url": "https://i2.hako.vip/ln/books/covers/s40917-fb69440c-33ba-4a27-8788-62af53c4123b.webp",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/no_le_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/no_le_vol_2.1.pdf"
+                },
+                {
+                    "name": "Vol 2.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/no_le_vol_2.2.pdf"
+                },
+                {
+                    "name": "Vol 2.3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/no_le_vol_2.3.pdf"
+                },
+                {
+                    "name": "Vol 3.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/no_le_vol_3.1.pdf"
+                },
+                {
+                    "name": "Vol 3.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/no_le_vol_3.2.pdf"
+                },
+                {
+                    "name": "Vol 3.3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/no_le_vol_3.3.pdf"
+                }
+            ]
         }
     ]
 }
