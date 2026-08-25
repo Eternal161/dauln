@@ -1467,8 +1467,12 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/bac_si_2008_vol_3.pdf"
                 },
                 {
-                    "name": "Vol 4",
+                    "name": "Vol 4.1",
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/bac_si_2008_vol_4.pdf"
+                },
+                {
+                    "name": "Vol 4.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/bac_si_2008_vol_4.2.pdf"
                 }
             ]
         },
