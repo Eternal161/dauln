@@ -1690,6 +1690,14 @@
                 {
                     "name": "Vol 1",
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/thich_toi_mai_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/thich_toi_mai_vol_2.pdf"
+                },
+                {
+                    "name": "Vol 3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/thich_toi_mai_vol_3.pdf"
                 }
             ]
         },
@@ -1755,6 +1763,28 @@
                 {
                     "name": "Vol 1.6",
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/keeper_vol_1.6.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Súng, thép và đảng công nghiệp ở thế giới khác",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s28409-7d2ccc52-a30a-47ad-ab21-a39a55d1fd4e.webp",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/sung_di_gioi_vol_1.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Người yêu thời thơ ấu của tôi lại ghen tuông rồi",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s28366-852a4b61-a014-43f6-ae62-608d3a32d6fd.webp",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/ny_tho_au_vol_1.pdf"
                 }
             ]
         }
