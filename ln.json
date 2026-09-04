@@ -1783,6 +1783,17 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/ny_tho_au_vol_1.pdf"
                 }
             ]
+        },
+        {
+            "title": "Cuốn tiểu thuyết cậu viết đã gây cho tôi không ít rắc rối đấy.",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s28434-99e3713b-7279-4c34-938f-1b8220959442.webp",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/tieu_thuyet_vol_1.pdf"
+                }
+            ]
         }
     ]
 }
