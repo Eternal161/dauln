@@ -1794,6 +1794,48 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/tieu_thuyet_vol_1.pdf"
                 }
             ]
+        },
+        {
+            "title": "Bạn Gái Tôi Là Faker Phiên Bản Nữ",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s27518-c7018203-b41f-4da1-bd3e-195cd5b20b26.webp",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/faker_nu_vol_1.1.pdf"
+                },
+                {
+                    "name": "Vol 1.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/faker_nu_vol_1.2.pdf"
+                },
+                {
+                    "name": "Vol 2.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/faker_nu_vol_2.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Trở về năm 2000: Thanh mai nữ thần tuổi 18",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s20569-f582272d-688e-4565-8f23-20b68fbef9b9.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/trung_sinh_2000_vol_1.1.pdf"
+                },
+                {
+                    "name": "Vol 1.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/trung_sinh_2000_vol_1.2.pdf"
+                },
+                {
+                    "name": "Vol 2.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/trung_sinh_2000_vol_2.1.pdf"
+                },
+                {
+                    "name": "Vol 2.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/trung_sinh_2000_vol_2.2.pdf"
+                }
+            ]
         }
     ]
 }
