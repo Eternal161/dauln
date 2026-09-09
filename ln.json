@@ -1859,6 +1859,36 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/ket_hon_gia_vol_1.pdf"
                 }
             ]
+        },
+        {
+            "title": "Hoa Khôi Lạnh Lùng Trọng Sinh, Điên Cuồng Cưa Cẩm Tôi",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s27642-fcb244c3-d258-4e42-ac7c-7f1c3e44a2ba.webp",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/hoa_khoi_theo_duoi_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/hoa_khoi_theo_duoi_vol_2.pdf"
+                },
+                {
+                    "name": "Vol 3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/hoa_khoi_theo_duoi_vol_3.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Hành Trình Kiểm Lâm Bắt Đầu Bằng Việc Tìm Kiếm Một Con Linh Miêu Cái",
+            "thumb_url": "https://cdn.cdnshu.com/files/article/image/74/74974/74974s.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/kiem_lam_vol_1.1.pdf"
+                }
+            ]
         }
     ]
 }
