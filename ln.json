@@ -1897,6 +1897,21 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/kiem_lam_vol_3.pdf"
                 }
             ]
+        },
+        {
+            "title": "Thanh Mai Yêu Thầm Tôi 10 Năm, May Mà Tôi Được Trọng Sinh",
+            "thumb_url": "https://i2.novel543.com/thumb/120x160/20260131/190458124782.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/trung_sinh_2_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 1.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln2/main/trung_sinh_2_vol_2.pdf"
+                }
+            ]
         }
     ]
 }
