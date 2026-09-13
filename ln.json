@@ -32,29 +32,33 @@
             ]
         },
         {
-            "title": "Dị giới bình yên",
-            "thumb_url": "https://i.hako.vip/lightnovel/covers/s7773-fcc60248-2777-488b-b938-805bbb6243dc-m.jpg",
-            "status": "WebNovel tới 497",
+            "title": "Tôi bị vướng vào Cuộc Triệu hồi Anh hùng, nhưng Dị giới đó lại Bình yên",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s20324-13dfb366-cf60-4a20-acf5-f6cafd25ba53.jpg",
+            "status": "WN",
             "pdf_chapters": [
                 {
-                    "name": "1-189",
-                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/di_gioi_binh_yen_1-189_vol_1_compressed.pdf"
+                    "name": "Vol 1.1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/was_caught_vol_1.1.pdf"
                 },
                 {
-                    "name": "190-223",
-                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/di_gioi_binh_yen_190-223_vol_1.pdf"
+                    "name": "Vol 1.2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/was_caught_vol_1.2.pdf"
                 },
                 {
-                    "name": "224-268",
-                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/di_gioi_binh_yen_224-268_vol_1.pdf"
+                    "name": "Vol 1.3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/was_caught_vol_1.3.pdf"
                 },
                 {
-                    "name": "269-497",
-                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/di_gioi_binh_yen_269-497_vol_1.pdf"
+                    "name": "Vol 1.4",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/was_caught_vol_1.4.pdf"
                 },
                 {
-                    "name": "269-497",
-                    "url": "https://raw.githubusercontent.com/Eternal161/dauln/main/di_gioi_binh_yen_269-497_vol_2.pdf"
+                    "name": "Ngoại Truyện",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/was_caught_vol_1.6.pdf"
+                },
+                {
+                    "name": "Vol 1.6",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/was_caught_vol_1.5.pdf"
                 }
             ]
         },
