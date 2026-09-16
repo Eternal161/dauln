@@ -2122,6 +2122,17 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/katsugame_vol_12.pdf"
                 }
             ]
+        },
+        {
+            "title": "Đều Đã Trùng Sinh Rồi, Ai Còn Muốn Thi Công Chức Nữa",
+            "thumb_url": "https://raw.githubusercontent.com/Eternal161/dauln/refs/heads/main/bia_cong_chuc.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/cong_chuc_vol_1.pdf"
+                }
+            ]
         }
     ]
 }
