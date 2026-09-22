@@ -2218,6 +2218,20 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/co_con_1_vol_2.pdf"
                 }
             ]
+        },
+        {
+            "title": "Cuộc Sống Trên Đảo Hoang Cùng Bạn Cùng Lớp",
+            "thumb_url": "https://cdn.cdnshu.com/files/article/image/41/41580/41580s.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/sinh_ton_vol_1.pdf"
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/sinh_ton_vol_2.pdf"
+                }
+            ]
         }
     ]
 }
