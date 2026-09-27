@@ -2275,6 +2275,25 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/nuoi_con_1_vol_3.pdf"
                 }
             ]
+        },
+        {
+            "title": "Ép Ta Trùng Sinh Đúng Không ?",
+            "thumb_url": "https://i2.hako.vip/ln/series/covers/s26736-29d3c2bb-a0ac-4223-8a6a-15288eb045fa.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/ep_trung_sinh_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/ep_trung_sinh_vol_2.pdf"
+                },
+                {
+                    "name": "Vol 3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/ep_trung_sinh_vol_3.pdf"
+                }
+            ]
         }
     ]
 }
