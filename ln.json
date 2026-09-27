@@ -2302,6 +2302,21 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/ep_trung_sinh_vol_5.pdf"
                 }
             ]
+        },
+        {
+            "title": "Tỏ Tình Thất Bại, Tôi Tán Luôn Cô Bạn Thân Của Cô Ấy",
+            "thumb_url": "https://cdn.cdnshu.com/files/article/image/56/56471/56471s.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/to_tinh_that_bai_tan_luon_ban_than_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/to_tinh_that_bai_tan_luon_ban_than_vol_2.pdf"
+                }
+            ]
         }
     ]
 }
