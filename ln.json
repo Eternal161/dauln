@@ -2355,6 +2355,17 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/tieu_th_vol_2.pdf"
                 }
             ]
+        },
+        {
+            "title": "Hoa Khôi Ăn Trộm",
+            "thumb_url": "https://cdn.cdnshu.com/files/article/image/84/84642/84642s.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln3/main/hoa_khoi_ab_trom_vol_1.pdf"
+                }
+            ]
         }
     ]
 }
