@@ -2413,6 +2413,17 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln4/main/diet_anh_hung_vol_6.pdf"
                 }
             ]
+        },
+        {
+            "title": "Cuộc Sống Học Đường Hextech Của Tôi",
+            "thumb_url": "//p.69shuba.tw/393/393656/393656s.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln4/main/hextech_vol_1.pdf"
+                }
+            ]
         }
     ]
 }
