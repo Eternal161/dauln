@@ -2444,7 +2444,7 @@
         },
         {
             "title": "Cuộc Sống Học Đường Hextech Của Tôi",
-            "thumb_url": "//p.69shuba.tw/393/393656/393656s.jpg",
+            "thumb_url": "https://p.69shuba.tw/393/393656/393656s.jpg",
             "status": "WN",
             "pdf_chapters": [
                 {
@@ -2454,6 +2454,17 @@
                 {
                     "name": "Vol 2",
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln4/main/hextech_vol_2.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Ảnh Đế: Tôi Cảm Ơn Cậu",
+            "thumb_url": "https://cdn.cdnshu.com/files/article/image/58/58329/58329s.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln4/main/cam_on_vol_1.pdf"
                 }
             ]
         }
