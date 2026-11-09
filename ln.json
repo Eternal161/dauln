@@ -2538,6 +2538,36 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln4/main/hop_phap_vol_10.pdf"
                 }
             ]
+        },
+        {
+            "title": "Tôi Kêu Cậu Ủng Hộ Thần Tượng, Kết Quả Là Cậu Cưới Luôn Người Ta",
+            "thumb_url": "https://cdn.cdnshu.com/files/article/image/58/58080/58080s.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln4/main/cuoi_than_tuong_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln4/main/cuoi_than_tuong_vol_2.pdf"
+                },
+                {
+                    "name": "Vol 3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln4/main/cuoi_than_tuong_vol_3.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Sự Giải Trí Bắt Đầu Từ Một Tia Lửa Đam Mê.",
+            "thumb_url": "https://cdn.cdnshu.com/files/article/image/40/40225/40225s.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln4/main/ngoi_nha_rung_dong_vol_1.pdf"
+                }
+            ]
         }
     ]
 }
