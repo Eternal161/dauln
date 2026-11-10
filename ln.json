@@ -2559,13 +2559,28 @@
             ]
         },
         {
-            "title": "Sự Giải Trí Bắt Đầu Từ Một Tia Lửa Đam Mê.",
+            "title": "Sự Giải Trí Bắt Đầu Từ Một Tia Lửa Đam Mê",
             "thumb_url": "https://cdn.cdnshu.com/files/article/image/40/40225/40225s.jpg",
             "status": "WN",
             "pdf_chapters": [
                 {
                     "name": "Vol 1",
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln4/main/ngoi_nha_rung_dong_vol_1.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Bài Hát Đó Liên Quan Gì Tới Tôi? Tôi Chỉ Hát Vài Dòng Thôi",
+            "thumb_url": "https://cdn.cdnshu.com/files/article/image/54/54989/54989s.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln4/main/hai_nguoi_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln4/main/hai_nguoi_vol_2.pdf"
                 }
             ]
         }
