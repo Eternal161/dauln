@@ -2647,13 +2647,21 @@
             ]
         },
         {
-            "title": "Bắt Đầu Bằng Việc Công Khai Mối Quan Hệ Với Minh Tinh" ,
+            "title": "Bắt Đầu Bằng Việc Công Khai Mối Quan Hệ Với Minh Tinh Quốc Dân" ,
             "thumb_url": "https://cdn.cdnshu.com/files/article/image/44/44284/44284s.jpg",
             "status": "WN",
             "pdf_chapters": [
                 {
                     "name": "Vol 1",
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln5/main/1_minh_tinh_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln5/main/1_minh_tinh_vol_2.pdf"
+                },
+                {
+                    "name": "Vol 3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln5/main/1_minh_tinh_vol_3.pdf"
                 }
             ]
         }
