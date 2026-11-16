@@ -2709,6 +2709,28 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln5/main/dao_hoang_vol_1.pdf"
                 }
             ]
+        },
+        {
+            "title": "Đưa Mật Tỷ Lên Đỉnh Cao" ,
+            "thumb_url": "https://cdn.cdnshu.com/files/article/image/54/54441/54441s.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln5/main/gt4_vol_1.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Hoa Thiếu 5" ,
+            "thumb_url": "https://cdn.cdnshu.com/files/article/image/9907/9907766/9907766s.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln5/main/hoa_thieu_5_vol_1.pdf"
+                }
+            ]
         }
     ]
 }
