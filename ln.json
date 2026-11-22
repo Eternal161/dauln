@@ -2810,6 +2810,21 @@
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln5/main/bs2_vol_11.pdf"
                 }
             ]
+        },
+        {
+            "title": "Từ Quản Lí Đến Ông Trùm Giải Trí" ,
+            "thumb_url": "https://cdn.cdnshu.com/files/article/image/35/35636/35636s.jpg",
+            "status": "WN",
+            "pdf_chapters": [
+                {
+                    "name": "Vol 1",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln5/main/gtt_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln5/main/gtt_vol_2.pdf"
+                }
+            ]
         }
     ]
 }
