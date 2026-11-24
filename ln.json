@@ -2838,13 +2838,21 @@
             ]
         },
         {
-            "title": "Lãnh Chúa Sinh Tồn: Bắt Đầu Công Lược Từ Tiểu Viện Đổ Nát." ,
+            "title": "Lãnh Chúa Sinh Tồn: Bắt Đầu Công Lược Từ Tiểu Viện Đổ Nát" ,
             "thumb_url": "https://cdn.cdnshu.com/files/article/image/37/37059/37059s.jpg",
             "status": "WN",
             "pdf_chapters": [
                 {
                     "name": "Vol 1",
                     "url": "https://raw.githubusercontent.com/Eternal161/dauln5/main/lanh_chu_vol_1.pdf"
+                },
+                {
+                    "name": "Vol 2",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln5/main/lanh_chu_vol_2.pdf"
+                },
+                {
+                    "name": "Vol 3",
+                    "url": "https://raw.githubusercontent.com/Eternal161/dauln5/main/lanh_chu_vol_3.pdf"
                 }
             ]
         }
